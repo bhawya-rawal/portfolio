@@ -2,7 +2,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import ProfilePhoto from '../assets/profile.jpg'; // Make sure you have your profile.jpg in src/assets/
+import ProfilePhoto from '../assets/profile.jpg'; 
 const Home = () => {
   const containerVariants = {
     hidden: { opacity: 0 },
